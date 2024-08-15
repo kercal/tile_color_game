@@ -1,6 +1,6 @@
 # Tile Color Flood Game
 
-This challenge implements a one-player tile color flood game where the goal is to make all tiles on an `n x n` board the same color with the fewest number of moves. The player can choose from `m` different colors, and each move changes the color of all tiles connected to the origin tile to the chosen color.
+This project implements a one-player tile color flood game where the goal is to make all tiles on an `n x n` board the same color with the fewest number of moves. The player can choose from `m` different colors, and each move changes the color of all tiles connected to the origin tile to the chosen color.
 
 ### Algorithm
 
